@@ -8,10 +8,6 @@ Anilkumar Computer Science undergraduate specializing in AI and web development 
 
 problem-solving skills(DSA) and a passion for building impactful software solutions and Hackathon
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilkumara9&label=Profile%20views&color=0e75b6&style=flat" alt="anilkumara9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilkumara9" alt="anilkumara9" /></a> </p>
