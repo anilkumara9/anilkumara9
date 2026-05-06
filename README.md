@@ -77,6 +77,7 @@ Winner
 
 ### Contribution Graph
 
+<br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkumara9/anilkumara9/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkumara9/anilkumara9/output/pacman-contribution-graph.svg">
