@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
 Hi 👋 My name is Anil Kumar meda
 ================================
 
@@ -7,6 +11,10 @@ A passionate Full-Stack Developer | ML Engineer | Open Source Enthusiast from In
 Anilkumar Computer Science undergraduate specializing in AI and web development with strong
 
 problem-solving skills(DSA) and a passion for building impactful software solutions and Hackathon
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilkumara9&label=Profile%20views&color=0e75b6&style=flat" alt="anilkumara9" /> </p>
 
@@ -70,6 +78,14 @@ Winner
     <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a></td>
   </tr>
 </table>
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkumara9/anilkumara9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkumara9/anilkumara9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anilkumara9/anilkumara9/output/pacman-contribution-graph.svg">
+</picture>
 
 ### Socials
 
