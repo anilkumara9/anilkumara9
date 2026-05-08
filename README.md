@@ -22,7 +22,7 @@ Winner
 
 ### Tech Stack
 
-**Advanced:** Java, C, Python
+Java, C, Python
 
 <table>
   <tr>
